@@ -1,0 +1,30 @@
+ .time{font-family: "Inter", sans-serif;}
+ h1{font-size: 30px;
+    		text-transform: uppercase;
+    		font-style: italic;
+    		margin: center;
+		text-align: center;}
+ h2{font-size: 14px;
+    		text-transform: uppercase;
+		font-family: 'Inter', sans-serif;}
+p{font-size: 20px;
+	margin: center;
+	font-family: 'Inter', sans-serif;}
+*{box-sizing: border-box;}
+img{width: 300px;}
+.kartinka{width: 5%;}
+.card{width: 350px;
+		margin-bottom:60px;
+ 		padding: 20px 45px 70px;
+		box-shadow: 4px 4px 5px rgba(250, 50, 50, .4);
+		display: inline-block;
+		margin-right: 90px;} 
+.no-right-margin{margin-right: 0;}
+.card-title{font-size: 30px;
+		font-weight: 500;
+		margin-bottom: 10px;}
+.card-image{width: 100%}
+.card-text{font-size:16px;}
+.content{font-size: 0;
+		width: 790px;
+		margin: 0 auto;}
